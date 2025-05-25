@@ -1,1 +1,1 @@
-"today is day 1 of learning Devops!" i.e.,25-May-2025;
+"today is day 1 of learning Devops!"
